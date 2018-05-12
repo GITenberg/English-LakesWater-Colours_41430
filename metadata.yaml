@@ -13,6 +13,8 @@ covers:
 - cover_type: archival
   image_path: 41430-h/images/img-cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41430#English-LakesWater-Colours
 gutenberg_issued: '2012-11-21'
 gutenberg_type: Text
 identifiers:
